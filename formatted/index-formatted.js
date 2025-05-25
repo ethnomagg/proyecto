@@ -8211,7 +8211,7 @@ const vc = D("X", [
       })]
     })]
   }),
-  jc = "/assets/logo-CVLKJofU.svg",
+  jc = "./assets/logo-CVLKJofU.svg",
   kp = ({
     scrolled: e
   }) => {
@@ -8365,7 +8365,7 @@ const vc = D("X", [
       })]
     })
   },
-  wp = "/assets/background-video-DrvxSQPD.mp4",
+  wp = "./assets/background-video-DrvxSQPD.mp4",
   jp = () => {
     const [e, t] = _.useState(0), {
       language: n
